@@ -1,0 +1,21 @@
+.multiselect-menu li {
+    list-style: none;
+}
+.multiselect-menu label {
+    border: solid 1px #f5f5f5;
+    padding: 3px 2px;
+}
+
+.multiselect-menu label input {
+    float:right;
+    margin: 4px 12px 0;
+}
+
+.modal-multiselect {
+    width: 420px;
+    left: 54%;
+}
+
+.modal-multiselect.fade.in {
+    top: 40%;
+}
